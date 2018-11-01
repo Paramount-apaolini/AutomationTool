@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1172]C:\Users\apaolini\source\repos\BaseAutomationFramework_v1_0\BaseAutomationFramework_v1_0-master\BaseAutomationFramework\bin\Debug\BaseAutomationFramework.dll</TopNode>
+  <SelectedNode>[0-1069]BaseAutomationFramework.Tests.Encompass.TicketTesting.Tonys.TestingSpecflow</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1172]C:\Users\apaolini\source\repos\BaseAutomationFramework_v1_0\BaseAutomationFramework_v1_0-master\BaseAutomationFramework\bin\Debug\BaseAutomationFramework.dll" Expanded="true" />
+    <Node UniqueName="[0-1173]BaseAutomationFramework" Expanded="true" />
+    <Node UniqueName="[0-1174]BaseAutomationFramework.Tests" Expanded="true" />
+    <Node UniqueName="[0-1176]BaseAutomationFramework.Tests.Encompass" Expanded="true" />
+    <Node UniqueName="[0-1024]BaseAutomationFramework.Tests.Encompass.CodeChecker" Expanded="true" />
+    <Node UniqueName="[0-1180]BaseAutomationFramework.Tests.Encompass.EnvironmentLogin" Expanded="true" />
+    <Node UniqueName="[0-1179]BaseAutomationFramework.Tests.Encompass.LoanCreation" Expanded="true" />
+    <Node UniqueName="[0-1019]BaseAutomationFramework.Tests.Encompass.Smoke_Test" Expanded="true" />
+    <Node UniqueName="[0-1177]BaseAutomationFramework.Tests.Encompass.TicketTesting" Expanded="true" />
+    <Node UniqueName="[0-1178]BaseAutomationFramework.Tests.Encompass.TicketTesting.Tonys" Expanded="true" />
+    <Node UniqueName="[0-1175]BaseAutomationFramework.Tests.OtherTests" Expanded="true" />
+  </Nodes>
+</VisualState>

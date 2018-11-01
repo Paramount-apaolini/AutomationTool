@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\apaolini\source\repos\BaseAutomationFramework_v1_0\BaseAutomationFramework_v1_0-master\BaseAutomationFramework\bin\Debug\BaseAutomationFramework.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-10-12" time="14:23:17">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8807" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="D-FS3R3H2" user="apaolini" user-domain="PEM" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\apaolini\source\repos\BaseAutomationFramework_v1_0\BaseAutomationFramework_v1_0-master\BaseAutomationFramework\bin\Debug\BaseAutomationFramework.dll" executed="True" result="Success" success="True" time="3.445" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="BaseAutomationFramework" executed="True" result="Success" success="True" time="3.437" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="3.436" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Encompass" executed="True" result="Success" success="True" time="3.436" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="CodeChecker" executed="True" result="Success" success="True" time="3.434" asserts="0">
+                    <results>
+                      <test-case name="BaseAutomationFramework.Tests.Encompass.CodeChecker.LogInspect" executed="True" result="Success" success="True" time="3.210" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
