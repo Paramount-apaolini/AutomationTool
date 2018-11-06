@@ -18,6 +18,9 @@ namespace BaseAutomationFramework.PageObjects.Encompass
         public static SearchCriteria scWindow = SearchCriteria.ByAutomationId("LoanPage");
         public static SearchCriteria[] scArray = new SearchCriteria[] { EncompassMain.scWindow };
         public const bool SET_MAXIMIZED = false;
+        
+        
+
         public TestConsole()
         {
             PropertyCondition pcWindow = new PropertyCondition(AutomationElement.AutomationIdProperty, "MainForm");

@@ -13,8 +13,9 @@ namespace BaseAutomationFramework.PageObjects.Encompass
 		public static SearchCriteria scWindow = SearchCriteria.ByAutomationId("LoginScreen");
 		public static SearchCriteria[] scArray = { scWindow };
 		public const bool SET_MAXIMIZED = false;
+        public static string Password { get; set; }
 
-		public Login()
+        public Login()
 		{
 			Set_Screen(scArray, SET_MAXIMIZED);
 		}
@@ -43,7 +44,7 @@ namespace BaseAutomationFramework.PageObjects.Encompass
 		public Login Login_Username_SendKeys(string Username)
 		{
 			GetTextBox(txt_Username).Text = Username;
-            txt_Password_SendKeys("P@ramount1").btn_Login_Click(); Thread.Sleep(10000);
+            txt_Password_SendKeys(Password).btn_Login_Click(); Thread.Sleep(10000);
             EncompassMain.Initialize().Resize().tab_Pipeline_Select();
             return this;
 		}
